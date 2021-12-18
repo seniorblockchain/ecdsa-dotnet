@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = EllipticCurve
+build_property.ProjectDir = C:\Users\Milad\Desktop\ecdsa-dotnet-master\EcdsaDotNet\EcdsaDotNet\
